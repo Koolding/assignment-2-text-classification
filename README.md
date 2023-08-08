@@ -1,2 +1,3 @@
-# assignment-2-text-classification
-This repository contains assignment 2 which is a part of the portfolio exam in the course Language Analytics at Aarhus University.
+# Assignment 2 - Language Analytics
+Author: Christian Norup Kolding (201805727)
+Date: 2nd of July 2023
